@@ -8,7 +8,7 @@ Code for **Effective Snapshot Compressive-spectral Imaging via Deep Denosing and
 ## Usage
 - run our algorithm
 ```python
-python pnp_gap_HSI_combine_prior.py
+python pnp_gap_HSI_tv_ffdnet.py
 ```
 
 - run two baseline algorithms
