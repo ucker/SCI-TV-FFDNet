@@ -1,5 +1,5 @@
 # SCI Reconstruction with TV and FFDNet
-Code for **Effective Snapshot Compressive-spectral Imaging via Deep Denosing and Total Variation Priors** (CVPR 2021). 
+Code for **Effective Snapshot Compressive-spectral Imaging via Deep Denoising and Total Variation Priors** (CVPR 2021). 
 
 ## Requirements
 - python3
