@@ -1,4 +1,4 @@
-# SCI Prior Combination
+# SCI Reconstruction with TV and FFDNet
 Code for **Effective Snapshot Compressive-spectral Imaging via Deep Denosing and Total Variation Priors** (CVPR 2021). 
 
 ## Requirements
